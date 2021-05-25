@@ -1,4 +1,4 @@
-# 한국어
+# 한국어(Korean)
 ### 안녕하세요 👋
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-# 영어
+# 영어(English)
 ### Hi there 👋
 
 <!--
