@@ -1,4 +1,4 @@
-# 한국어(Korean)
+## 한국어(Korean)
 ### 안녕하세요 👋
 https://codepsy-2001.github.io/CodePsy-2001/
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-# 영어(English)
+## 영어(English)
 ### Hi there 👋
 https://codepsy-2001.github.io/CodePsy-2001/eng.html
 <!--
