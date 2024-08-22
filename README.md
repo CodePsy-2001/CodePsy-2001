@@ -1,4 +1,4 @@
-깃허브 블로그: https://codepsy-2001.github.io 코드싸이 심리 연구소
+https://codepsy2001.blog
 
 <!--
 **CodePsy-2001/CodePsy-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
