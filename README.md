@@ -1,4 +1,6 @@
-https://codepsy2001.blog
+블로그: https://codepsy2001.blog
+
+오픈채팅: https://open.kakao.com/o/sMQZGwpi
 
 <!--
 **CodePsy-2001/CodePsy-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
